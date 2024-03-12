@@ -1,0 +1,6 @@
+{
+    "notebook.kernelPicker.type": "all",
+    "python.analysis.extraPaths": [
+        "./code"
+    ]
+}
